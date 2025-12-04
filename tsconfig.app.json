@@ -3,21 +3,17 @@
     "target": "ES2022",
     "useDefineForClassFields": true,
     "lib": ["ES2022", "DOM", "DOM.Iterable"],
-    "module": "es2015",
+    "module": "ESNext",
     "types": ["vite/client"],
     "skipLibCheck": true,
-<<<<<<< HEAD
-
-    /* Compatible mode for CI/older TypeScript */
-    "moduleResolution": "node",
-=======
     "moduleResolution": "node",
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
->>>>>>> 3d12db93e401fed8f3a293039512725c83ce90a6
     "noEmit": true,
     "jsx": "react-jsx",
+
+    /* Strictness & linting */
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
