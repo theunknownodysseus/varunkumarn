@@ -1,75 +1,114 @@
-# React + TypeScript + Vite
+# Varun Kumar N — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## _AI-Driven Full-Stack Developer & Creative_
 
-Currently, two official plugins are available:
+[![GitHub](https://img.shields.io/badge/GitHub-theunknownodysseus-181717?style=flat&logo=github&logoColor=white)](https://github.com/theunknownodysseus)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-varunkumarn636-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunkumarn636)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to my **personal portfolio** showcasing my skills in full-stack development, AI integration, and creative problem-solving.
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## About Me
 
-Note: This will impact Vite dev & build performances.
+Hi, I'm **Varun Kumar N**, a Computer Science undergraduate (B.E. 2027) with a passion for **MERN full-stack development**, **AI integration**, and **visual storytelling**. As a published comic book artist, I bring creativity to every project I work on, building solutions that are both functional and delightful.
 
-## Expanding the ESLint configuration
+**Languages:** Tamil (Native), English (C1), French (A2)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+**Interests:** Full-Stack Development, UI/UX Design, Generative AI, Graphic Design
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## Achievements
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- 🥇 **SIH Internal Round Winner** – Kongu Engineering College  
+- ⭐ **IEEE Hackathon Special Mention** – VIT Chennai  
+- 🏆 **Paper Presentation Winner** – AI-powered BCI Concept  
+- 📖 **Five-Chapter One-Shot Manga** – Published  
+- 🔹 Leadership: Joint Secretary @ CSE Coding Club, Office Bearer @ KEC Freelancers Club  
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Skills & Expertise
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+**Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript  
+**Web Technologies:** React.js, Node.js, Express.js, HTML5, CSS3, Tailwind CSS  
+**Databases & Tools:** MongoDB, MySQL, Git, VS Code, Figma, REST APIs  
+**Other Expertise:** UI/UX Design, Generative AI, Cloud Computing, Graphic Design  
+
+---
+
+## Featured Projects
+
+### **Youniq — AI Academic Mentor**
+AI-powered learning platform providing personalized study plans and analytics.  
+**Tech Stack:** React.js, Node.js, MongoDB, AI Models  
+[View Code](#)
+
+### **UB Comics — Comic Project Manager**
+Electron-based desktop app for comic creators to organize projects and assets.  
+**Tech Stack:** Electron, JavaScript, Node.js, HTML/CSS  
+[View Code](#)
+
+### **Study Time Tracker**
+Track study sessions with analytics, goals, and progress visualization.  
+**Tech Stack:** MERN  
+[View Code](#)
+
+### **RPS Game**
+Interactive Rock-Paper-Scissors game with animations and score tracking.  
+**Tech Stack:** JavaScript, HTML, CSS  
+[View Code](#)
+
+### **Renaissance 2k25 — Symposium Website**
+Official website for KEC’s technical symposium with responsive design and event management.  
+**Tech Stack:** React.js, Tailwind CSS  
+[View Code](#)
+
+[View All Projects on GitHub](https://github.com/theunknownodysseus)
+
+---
+
+## Experience
+
+**Full-Stack Developer — Schemind** *(May 2025 – Present)*  
+Building AI-driven web solutions, including the **Youniq** platform.
+
+**Comic Book Artist — Grephyt / Onionskin Productions** *(Apr 2025 – Aug 2025)*  
+Illustrated and published a 5-chapter manga, collaborating remotely with writers and editors.
+
+**Generative AI Intern — SystimaNX & Generative AI Consortium** *(Nov 2024 – Apr 2025)*  
+Assisted in data preprocessing and brainstorming AI solutions.
+
+**Product Intern — OreOps Framework (P) Ltd** *(Jul 2024)*  
+Supported product research, documentation, and workflow creation.
+
+---
+
+## Certifications & Courses
+
+- Oracle APEX Cloud Developer  
+- Oracle Cloud Infrastructure AI Foundations  
+- Fortinet Cybersecurity Fundamentals  
+- AWS ML Basics (Springboard)  
+- Cloud Computing (Springboard)  
+- Programming in Modern C++ (NPTEL)  
+- Introduction to Industry 4.0 & Industrial IoT (NPTEL)  
+
+---
+
+## Contact
+
+📧 **Email:** varunify.777@gmail.com  
+🐙 **GitHub:** theunknownodysseus  
+💼 **LinkedIn:** varunkumarn636  
+
+Have a project in mind or want to collaborate? Feel free to reach out!
+
+---
+
+## Built With
+
+React.js • TypeScript • Tailwind CSS • Vite • Framer Motion  
+
+© 2025 Varun Kumar N — **All Rights Reserved**
