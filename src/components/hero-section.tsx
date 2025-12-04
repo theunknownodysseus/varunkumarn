@@ -53,7 +53,7 @@ export function HeroSection() {
         }`}
       >
         <div className="mb-6">
-          <span className="inline-block px-4 py-1.5 text-xs font-mono font-medium bg-primary/10 text-primary rounded-full border border-primary/20">
+          <span className="inline-block px-4 py-1.5 text-xs font-mono font-medium bg-primary/10 text-white rounded-full border border-primary/20">
             Available for opportunities
           </span>
         </div>
