@@ -114,6 +114,16 @@ export function Navigation() {
   >
     Comic Portfolio
   </a>
+
+<a
+    href="https://drive.google.com/file/d/1N3F-wJSpCnA1y1xCjOoMJKXG2TtZAUkY/view?usp=sharing"
+    target="_self"
+    className="px-4 py-2 text-sm transition-colors hover-elevate rounded-md text-foreground hover:text-primary"
+    role="menuitem"
+  >
+    Resume
+  </a>
+            
             {/* <div className="ml-2">
               <ThemeToggle testId="button-theme-toggle-desktop" />
             </div> */}
@@ -170,6 +180,14 @@ export function Navigation() {
         role="menuitem"
       >
         Art
+      </a>
+              <a
+        href="https://drive.google.com/file/d/1N3F-wJSpCnA1y1xCjOoMJKXG2TtZAUkY/view?usp=sharing"
+        target="_blank"
+        className="px-4 py-3 text-sm font-medium rounded-md transition-colors text-left text-foreground hover:text-primary hover:bg-accent"
+        role="menuitem"
+      >
+                Resume
       </a>
             </div>
           </div>
