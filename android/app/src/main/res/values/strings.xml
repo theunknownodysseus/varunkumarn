@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">varun</string>
+    <string name="title_activity_main">varun</string>
+    <string name="package_name">com.varun777</string>
+    <string name="custom_url_scheme">com.varun777</string>
+</resources>
