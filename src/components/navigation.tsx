@@ -182,7 +182,7 @@ export function Navigation() {
         Art
       </a>
               <a
-        href="https://drive.google.com/file/d/1N3F-wJSpCnA1y1xCjOoMJKXG2TtZAUkY/view?usp=sharing"
+        href="https://drive.google.com/file/d/14iXb9P6bzcxuUXvZuccLgj0K73YUgVSL/view?usp=sharing"
         target="_blank"
         className="px-4 py-3 text-sm font-medium rounded-md transition-colors text-left text-foreground hover:text-primary hover:bg-accent"
         role="menuitem"
