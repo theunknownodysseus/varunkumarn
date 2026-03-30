@@ -116,7 +116,7 @@ export function Navigation() {
   </a>
 
 <a
-    href="https://drive.google.com/file/d/1N3F-wJSpCnA1y1xCjOoMJKXG2TtZAUkY/view?usp=sharing"
+    href="https://drive.google.com/file/d/14iXb9P6bzcxuUXvZuccLgj0K73YUgVSL/view?usp=sharing"
     target="_self"
     className="px-4 py-2 text-sm transition-colors hover-elevate rounded-md text-foreground hover:text-primary"
     role="menuitem"
