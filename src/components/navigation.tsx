@@ -107,12 +107,12 @@ export function Navigation() {
               </button>
             ))}
             <a
-    href="https://varun-exe.netlify.app/"
+    href="https://drive.google.com/file/d/13wf0umCPZx5yBoQYgYFOUeyJN05e9aVK/view"
     target="_blank"
     className="px-4 py-2 text-sm transition-colors hover-elevate rounded-md text-foreground hover:text-primary"
     role="menuitem"
   >
-    Comic Portfolio
+    Design Portfolio
   </a>
 
 <a
@@ -123,6 +123,7 @@ export function Navigation() {
   >
     Resume
   </a>
+            
             
             {/* <div className="ml-2">
               <ThemeToggle testId="button-theme-toggle-desktop" />
